@@ -1,0 +1,19 @@
+(0). 作者：陳繹文 YiWen Chen (i78524@gmail.com)
+     日期：2020/07/29
+
+
+
+(1). 本程式為讀取本機之dhcp client內容實作
+
+
+
+(2). 編譯指令
+gcc readDHCPclient.c -o helloDHcp
+
+
+
+(3). 參考自:lighttpd-1.4.20/cgi_src/webtool.c中的void GetDhcpClientList(void)
+
+
+
+本文結束
